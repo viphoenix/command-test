@@ -1,0 +1,9 @@
+2016-08-26 09:42:27,027, INFO, KafkaThread, Verifying properties
+2016-08-26 09:42:27,027, INFO, KafkaThread, Property metadata.broker.list is overridden to 10.0.53.81:9092
+2016-08-26 09:42:27,027, INFO, KafkaThread, Property serializer.class is overridden to kafka.serializer.StringEncoder
+2016-08-26 09:42:28,028, INFO, KafkaThread, Fetching metadata from broker id:0,host:10.0.53.81,port:9092 with correlation id 0 for 1 topic(s) Set(test-tk)
+2016-08-26 09:42:28,028, INFO, KafkaThread, Connected to 10.0.53.81:9092 for producing
+2016-08-26 09:42:28,028, INFO, KafkaThread, Disconnecting from 10.0.53.81:9092
+2016-08-26 09:42:28,028, INFO, KafkaThread, Connected to dc-zk3:9092 for producing
+2016-08-26 09:42:28,028, INFO, KafkaThread, Connected to dc-zk1:9092 for producing
+2016-08-26 09:42:28,028, INFO, KafkaThread, Connected to dc-zk2:9092 for producing
